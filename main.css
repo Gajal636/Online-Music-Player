@@ -1,0 +1,131 @@
+*{
+    margin:0;
+    padding:0;
+    font-family:sans-serif;
+}
+
+.container{
+    height: 100vh;
+    width: 100%;
+    background-image: url(image.png);
+    background-size: cover;
+    background-position: center;
+    position: relative;
+}
+.navbar{
+    width: 88%;
+    margin: auto;
+    padding: 15px 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.logo{
+    width: 140px;
+    cursor : pointer;
+}
+.navbar ul li{
+    list-style: none;
+    display: inline-block;
+    margin:0 15px;
+}
+.navbar ul li a{
+    text-decoration: none;
+    color: black;
+    font-size: 15px;    
+
+}
+.navbar ul li:hover {
+    border-bottom: 2px solid black;
+    transition: 0.2s ease-in;
+  }
+.content{
+    width: 100%;
+    position: absolute;
+    top:30%;
+  
+}
+
+.left-col{
+    margin-left: 6%;
+
+}
+.left-col h1{
+    font-size: 90px;
+    color:#fff;
+    line-height: 110px;
+    float: left;
+}
+.right-col{
+    float: right;
+    margin-right: 6%;
+    margin-top: 120px;
+    display: flex;
+    align-items: center;
+}
+.right-col p{
+    font-size: 18px;
+    color:#5f5f5f;
+    font-weight: 400;
+    margin-right: 15px;
+}
+#icon{
+    width: 80px;
+    cursor: pointer;
+}
+
+
+
+
+
+
+
+
+@keyframes moveText {
+    0% {
+        transform: translateY(-50px);
+        opacity: 0;
+    }
+    100% {
+        transform: translateY(0);
+        opacity: 1;
+    }
+}
+
+@keyframes fadeIn {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+
+@keyframes float {
+    0% {
+        transform: translateX(-20px);
+    }
+    50% {
+        transform: translateX(20px);
+    }
+    100% {
+        transform: translateX(-20px);
+    }
+}
+
+.left-col h1 {
+    font-size: 90px;
+    color: #fff;
+    line-height: 110px;
+    float: left;
+    animation: moveText 1s ease forwards, float 3s infinite ease-in-out;
+}
+
+.right-col {
+    float: right;
+    margin-right: 6%;
+    margin-top: 120px;
+    display: flex;
+    align-items: center;
+    animation: fadeIn 1s ease forwards;
+}
