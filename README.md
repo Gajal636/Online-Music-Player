@@ -7,5 +7,5 @@ HTML-
 Uses Hyper Text Markup Language to give it’s backbone.
 CSS-
 Uses Cascading Style Sheet to give it a user-friendly touch and a beautiful view to user’s.
-![image](https://github.com/user-attachments/assets/d12ad9f7-9d35-498d-b582-f12f597c0f3f)
+
 
