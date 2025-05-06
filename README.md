@@ -8,4 +8,9 @@ Uses Hyper Text Markup Language to give it’s backbone.
 CSS-
 Uses Cascading Style Sheet to give it a user-friendly touch and a beautiful view to user’s.
 
+Audio Streaming and Playback
+JavaScript-
+Leverages the power of web technologies to deliver a seamless audio streaming experience, minimizing buffering and providing uninterrupted playback and give user controls.
+
+
 
