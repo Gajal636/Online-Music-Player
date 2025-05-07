@@ -17,6 +17,11 @@ High-Quality Audio-
 Ensure your music player delivers high-fidelity audio, providing listeners with an immersive and rich listening experience.
 
 Responsive Design for Mobile and Desktop
+Seamless Transition-
+Ensure a consistent and optimized user experience across all devices, from desktop to mobile, providing a fluid transition between platforms.
+
+
+
 
 
 
