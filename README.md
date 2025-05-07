@@ -14,6 +14,11 @@ Leverages the power of web technologies to deliver a seamless audio streaming ex
 Responsive Controls-
 Empower users with intuitive playback controls, allowing them to pause, play, and adjust the volume with ease.
 High-Quality Audio-
+Ensure your music player delivers high-fidelity audio, providing listeners with an immersive and rich listening experience.
+
+Responsive Design for Mobile and Desktop
+
+
 
 
 
