@@ -11,6 +11,13 @@ Uses Cascading Style Sheet to give it a user-friendly touch and a beautiful view
 Audio Streaming and Playback
 JavaScript-
 Leverages the power of web technologies to deliver a seamless audio streaming experience, minimizing buffering and providing uninterrupted playback and give user controls.
+Responsive Controls-
+Empower users with intuitive playback controls, allowing them to pause, play, and adjust the volume with ease.
+High-Quality Audio-
+
+
+
+
 
 
 
