@@ -22,6 +22,9 @@ Ensure a consistent and optimized user experience across all devices, from deskt
 Mobile-Friendly Controls-
 Design touch-friendly controls and interactions that cater to the unique needs of mobile users, enhancing their on-the-go listening experience.
 Adaptive Layout-
+Implement a responsive layout that dynamically adjusts the user interface, content, and features to deliver the best experience for each device.
+
+
 
 
 
