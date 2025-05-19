@@ -25,6 +25,21 @@ Design touch-friendly controls and interactions that cater to the unique needs o
 Adaptive Layout-
 Implement a responsive layout that dynamically adjusts the user interface, content, and features to deliver the best experience for each device.
 
+Volume and Playback Controls
+Volume Control-
+Provide users with intuitive volume controls, allowing them to seamlessly adjust the audio levels to their preferences.
+Playback Controls-
+Equip your music player with a comprehensive set of playback controls, including play, pause, skip, and seek functionality.
+Auto play-
+Offer Auto playing mode to users to explore their music library in new and engaging ways.
+
+
+
+
+
+
+
+
 
 
 
