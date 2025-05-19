@@ -33,6 +33,15 @@ Equip your music player with a comprehensive set of playback controls, including
 Auto play-
 Offer Auto playing mode to users to explore their music library in new and engaging ways.
 
+Metadata Display (Song Title, Artist)
+Song Information-
+Prominently display the song title, artist, and album art to provide users with essential metadata about the currently playing track.
+Dynamic Updates-
+Ensure the metadata information updates in real-time as the user navigates through the music library or playlist.
+
+
+
+
 
 
 
