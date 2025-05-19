@@ -40,7 +40,8 @@ Dynamic Updates-
 Ensure the metadata information updates in real-time as the user navigates through the music library or playlist.
 
 Welcome to the Music Player
-![image](https://github.com/user-attachments/assets/5d64f975-9265-48a3-aca2-b54425df9a54)
+![image](https://github.com/user-attachments/assets/46bea461-68fe-4eed-82cc-fa63aca9638a)
+
 
 Now Playing
 ![image](https://github.com/user-attachments/assets/1201568a-b790-4b49-a5c2-50b029a29bad)
