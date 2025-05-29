@@ -46,6 +46,14 @@ Welcome to the Music Player
 Now Playing
 ![image](https://github.com/user-attachments/assets/1201568a-b790-4b49-a5c2-50b029a29bad)
 
+Giving Review-
+![image](https://github.com/user-attachments/assets/d2f01b46-2179-418e-bc4b-3f832cffb676)
+
+Review Submitted-
+![image](https://github.com/user-attachments/assets/2ffe472e-f53d-47d6-baa5-107a9135379a)
+
+
+
 
 
 
